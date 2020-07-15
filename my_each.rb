@@ -4,4 +4,5 @@ def my_each(array)
  yield (array[x])
  x += 1 
  end
+ puts 
 end
